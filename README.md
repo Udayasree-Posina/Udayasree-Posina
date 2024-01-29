@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Udayasree-Posina](https://github.com/Udayasree-Posina)
 
-- 💬 Ask me about **Amazon web services, EC2, VPC, IAM, CloudWatch, AWS lambda, Autoscaling, load balancer**
+- 💬 Ask me about **Amazon web services, EC2, VPC, IAM, CloudWatch, AWS lambda, Autoscaling, load balancer, route 53,  cloud formation and Terraform**
 
 - 📫 How to reach me **heidiposina@gmail.com**
 
