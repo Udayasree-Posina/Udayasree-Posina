@@ -10,6 +10,7 @@
 - 💬 Ask me about **Amazon web services, EC2, VPC, IAM, CloudWatch, AWS lambda, Autoscaling, load balancer, route 53,  cloud formation and Terraform**
 
 - 📫 How to reach me **heidiposina@gmail.com**
+- 📄 you can see my work at [https:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
