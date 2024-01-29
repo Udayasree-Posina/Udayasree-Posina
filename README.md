@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Udayasree-Posina/Udayasree-Posina/blob/main/Banner.png)
 <h3 align="center"> Passionate Cloud Engineer.</h3>
 
 - 🔭 I’m currently working on **AWS Cloud**
