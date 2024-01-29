@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Amazon web services, EC2, VPC, IAM, CloudWatch, AWS lambda, Autoscaling, load balancer, route 53,  cloud formation and Terraform**
 
-- 📫 How to reach me **heidiposina@gmail.com**
+- 📫 How to reach me **udayasreereddy12@gmail.com**
 - 📄 you can see my work at https://github.com/Udayasree-Posina/Udayasree-Posina/blob/main/Udayasree_AWS%20Resume.pdf
 
 <h3 align="left">Connect with me:</h3>
